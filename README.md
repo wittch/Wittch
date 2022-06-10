@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 미래의 개임 개발자, TA, Graphic Engineer를 목표로 공부 중입니다.
 <!--
 **wittch/Wittch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
