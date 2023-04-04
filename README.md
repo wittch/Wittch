@@ -1,5 +1,6 @@
-### 미래의 개임 개발자, TA, Graphic Engineer를 목표로 공부 중입니다.
-BOJ : https://www.acmicpc.net/user/wittch
+### 미래의 Graphic Engineer를 목표로 공부 중이며, 다양한 분야에 막힘없이 일할 수 있는 스페셜리스트가 되고 싶습니다.
+
+프로그래밍의 세계는 너무나도 넓다.
 <!--
 **wittch/Wittch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
